@@ -59,7 +59,7 @@ const SERVICES_DATA = [
     description:
       "Building premium, blazing-fast, and responsive single-page web applications utilizing modern component frameworks.",
     icon: "💻",
-  },
+  },      
   {
     title: "Backend Development",
     description:
